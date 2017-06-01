@@ -1,1 +1,1 @@
-include ':ptr-lib'
+include ':ptr-lib', ':ptr-demo'
